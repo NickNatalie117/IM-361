@@ -1,0 +1,5 @@
+console.log( "Hello!" );
+
+ "bin": {
+   "hello": "./bin/index.js"
+ }
